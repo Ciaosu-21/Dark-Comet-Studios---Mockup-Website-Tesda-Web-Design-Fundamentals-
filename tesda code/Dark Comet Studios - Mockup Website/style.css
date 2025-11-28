@@ -1,0 +1,42 @@
+.nav-wrapper{
+    font-family:fantasy;
+    background-color: #000000;
+}
+body{
+    background-color:#111314;
+}
+
+h2{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+footer{
+    background-color: #02111b;
+    color: white;
+}
+.copyright{
+   background-color: #00070c;
+}
+
+.Quote{
+    background-color: #02090e;
+}
+card-panel{
+    background-color:#02111b;
+}
+
+p{
+    font-family:Helvetica, sans-serif;
+}
+.text-container{
+    position: absolute;
+            left: 20rem;
+            top: 25rem;
+            background-color: rgb(41, 41, 41, 0);
+            padding: 0 1rem;
+}
+caption{
+    top: 25px;
+}
